@@ -1,0 +1,78 @@
+h1{
+  font-family: helvetica;
+  font-size: 40px;
+  color: #696969;
+  text-align: left;
+  text-transform:uppercase;
+}
+
+h1{
+  padding-top: 15px;
+  padding-bottom:15px;
+  padding-left: 15px;
+}
+
+#WashULogo {
+  position: fixed;
+  top: 40px;
+  right: 20px;
+}
+
+
+.navbar .navbar-expand-lg .navbar-light {
+font-size: 16px;
+font-family:helvetica;
+border-bottom:none;
+text-align: left;
+}
+
+.nav-link {
+  color: #696969;
+}
+
+.nav-link:hover{
+  font-weight: bold;
+  color: black;
+}
+
+
+
+.dropdown-menu a:hover {
+  background-color: #9EDFB0;
+  font-weight: bold;
+}
+
+
+#navbarDropdownApply:hover {
+    color: #000000;
+    font-weight: bold;
+  }
+
+#navbarDropdownKemper:hover {
+      color: #000000;
+      font-weight: bold;
+  }
+
+#Horse {
+  position:fixed;
+  display: block;
+  text-align: center;
+}
+
+#LectureSeries {
+  position:fixed;
+  display: block;
+  text-align: center;
+}
+
+#ClassPhoto {
+  position:fixed;
+  display: block;
+  text-align: center;
+}
+
+#Construction {
+  position:fixed;
+  display: block;
+  text-align: center;
+}
