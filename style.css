@@ -53,26 +53,46 @@ text-align: left;
       font-weight: bold;
   }
 
-#Horse {
-  position:fixed;
+#Library {
   display: block;
-  text-align: center;
+  position:fixed;
+  top:456px;
+  left:500px;
 }
 
-#LectureSeries {
-  position:fixed;
+#Rebleto {
   display: block;
-  text-align: center;
+  position:fixed;
+  top:220px; left:500px;
 }
 
-#ClassPhoto {
-  position:fixed;
+#Elephant {
   display: block;
-  text-align: center;
+  position:fixed;
+  top:220px;
 }
 
-#Construction {
-  position:fixed;
+#Footprint {
   display: block;
-  text-align: center;
+  position:fixed;
+  top:456px;
+}
+
+#LectureSeries{
+  display: block;
+  position:fixed;
+  top:220px; left:1000px;
+  }
+
+#Steinberg {
+  display: block;
+  position:fixed;
+  top:456px;
+}
+
+#Weitman {
+  display: block;
+  position:fixed;
+  top: 456px;
+  left: 1000px;
 }
